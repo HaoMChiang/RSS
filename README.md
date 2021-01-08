@@ -1,6 +1,7 @@
 # RSS
-RSS with additional updates from other developer
+Updated the existing code from other developers to support the functionality of subscribing and canceling
+multiple RSS sites
 
 Developer: Hao-Ming Chiang
 
-Original RSS code: https://www.vogella.com/tutorials/RSSFeed/article.html
+Original existed RSS code: https://www.vogella.com/tutorials/RSSFeed/article.html
